@@ -26,8 +26,7 @@ SECRET_KEY = 'django-insecure-!z^xt+uxrag((5d-qsjhbx-htrrkj(ev(b)^3q%-_x0=v@0841
 DEBUG = True
 
 # 서버의 Domain name, IP address
-ALLOWED_HOSTS = '[localhost', '127.0.0.1’]
-
+ALLOWED_HOSTS = ['localhost', '127.0.0.1']
 
 # Application definition
 
